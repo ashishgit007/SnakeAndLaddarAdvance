@@ -36,7 +36,9 @@
             </dependency>
           </dependencies>
 				<configuration>
-
+                <preparationGoals>package</preparationGoals>
+                        <tagNameFormat>@{project.version}</tagNameFormat>
+                        <autoVersionSubmodules>true</autoVersionSubmodules>
 
 				</configuration>
 			</plugin>
