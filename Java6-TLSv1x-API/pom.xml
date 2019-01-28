@@ -20,12 +20,12 @@
  <connection>scm:git:https://github.com/ashishgit007/SnakeAndLaddarAdvance.git</connection>
         <developerConnection>scm:git:https://github.com/ashishgit007/SnakeAndLaddarAdvance.git</developerConnection>
         <url>https://github.com/ashishgit007/SnakeAndLaddarAdvance.git</url>
-        <tag>0.0.1</tag>
+       
 
 
 	
 
-	  <tag>autotagg</tag>
+	  
   </scm>
 	<build>
 		<sourceDirectory>src/main/java</sourceDirectory>
