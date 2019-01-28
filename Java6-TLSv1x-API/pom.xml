@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.bioclinica.psintg</groupId>
 	<artifactId>Java6-TLSv2x-Generic-API</artifactId>
-	<version>3.9-SNAPSHOT</version>
+	<version>3.9</version>
 	<name>Java6-TLSv2x-Generic-API</name>
 	<description>Java6-TLSv2x-Generic-API</description>
 	<properties>
@@ -19,7 +19,7 @@
 
 	
 
-	  <tag>label</tag>
+	  <tag>ashishlabel</tag>
   </scm>
 	<build>
 		<sourceDirectory>src/main/java</sourceDirectory>
